@@ -36,3 +36,5 @@ The analysis provides a strategic framework for targeted marketing, enhancing ca
 - **Tools Used**: Google Colab, Lucid Chart
 - **Author**: Meghana Patibandla 
 Feel free to modify this template to better fit your project's specifics or add any additional sections you deem necessary.
+## Acknowledgments
+Special thanks to Dr.Jim Cary , under whose guidance this project was completed as part of the INFO 5307 Section 021 - Knowledge Management Tools and Technologies (Fall 2023 1) at University of North Texas.
