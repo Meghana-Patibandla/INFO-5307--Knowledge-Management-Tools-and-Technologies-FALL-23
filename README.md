@@ -1,4 +1,4 @@
-# INFO-5307--Knowledge-Management-Tools-and-Technologies-FALL-23
+# INFO-5307--Knowledge-Management-Tools-and-Technologies
 
 # Market Trend Analysis Solution in Banking & Finance
 
